@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Почему ты в полосатой рубашке?",
+                "Title": "Я смотрю ты приоделся!",
                 "DialogColor": 15921906,
                 "OptionType": 0
             }
@@ -84,7 +84,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1627993257511L,
+        "TimePast": 1627994842119L,
         "Time": 0L,
         "Subject": ""
     }
